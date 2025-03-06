@@ -68,9 +68,6 @@ SESSION_SECRET=<your-session-secret-here>
 
 QR_CODE_EXPIRY=your_expiry_time
 
-# Frontend (.env)
-REACT_APP_API_URL=http://localhost:5173
-
 # Run the Backend  
 cd backend
 
@@ -79,7 +76,18 @@ npm start
 # Run the Frontend  
 cd frontend
 
-npm start
+npm run dev
 
 # Access the App  
 http://localhost:3000
+
+## 👨‍💻 Meet the Team 🚀  
+
+| Name                     | Role & Expertise |
+|--------------------------|----------------|
+| **👨‍💻 Anshuman Nayak**  | AI/ML & Frontend Development 🧠🎨 |
+| **👨‍💻 Aditya Gopal Nayak** | UI/UX & Frontend Design 🎨⚡ |
+| **👨‍💻 Aryan Raj**        | Backend Development 💻⚙️ |
+|**👨‍💻 Surya** (Me)       | Backend & Infrastructure 🏗️🔧 |
+
+💡 Our team brings together **AI, UI/UX, and full-stack expertise** to build **InstaMark – a Smart Attendance Solution** that simplifies event-based check-ins with **Dynamic QR Codes, Face Recognition, and Real-Time Tracking.**  
